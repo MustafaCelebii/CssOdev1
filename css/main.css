@@ -20,3 +20,8 @@ h2{
     
 }
 
+ol.number{
+    width: 350px;
+    margin: 0 auto;
+    background-color: brown;
+}
